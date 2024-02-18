@@ -1,1 +1,1 @@
-# Self-supervised-Task-agnostic-EEG-Em-bedding
+# Self-supervised-Task-agnostic-EEG-Embedding
